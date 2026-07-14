@@ -1,0 +1,943 @@
+Copyright © 1992,
+ABNT–AssociaçãoBrasileira de
+Normas Técnicas
+Printed in Brazil/
+Impresso no Brasil
+Todos os direitos reservados
+ABNT-Associação
+Brasileira de
+Normas Técnicas
+ABR 1992
+Iluminância de interiores
+NBR 5413
+Palavra-chave: Iluminância 13 páginas
+1 Objetivo
+Esta Norma estabelece os valores de iluminâncias médias
+mínimas em serviço para iluminação artificial em
+interiores, onde se realizem atividades de comércio,
+indústria, ensino, esporte e outras.
+2 Documentos complementares
+Na aplicação desta Norma é necessário consultar:
+NBR 5382 - Verificação da iluminância de interiores -
+Método de ensaio
+NBR 5461 - Iluminação - Terminologia
+3 Definições
+Os termos técnicos utilizados nesta Norma estão definidos
+em 3.1 e 3.2 e na NBR 5461.
+3.1 Iluminância
+Limite da razão do fluxo luminoso recebido pela superfície
+em torno de um ponto considerado, para a área da
+superfície quando esta tende para o zero.
+Nota: A iluminância em serviço é determinada segundo a
+NBR 5382.
+3.2 Campo de trabalho
+Região onde, para qualquer superfície nela situada, exigem-
+se condições de iluminância apropriadas ao trabalho
+visual a ser realizado.
+4 Condições gerais
+4.1 A iluminância deve ser medida no campo de trabalho.
+Quando este não for definido, entende-se como tal o nível
+referente a um plano horizontal a 0,75 m do piso.
+4.2 No caso de ser necessário elevar a iluminância em
+limitado campo de trabalho, pode-se usar iluminação
+suplementar.
+4.3 A iluminância no restante do ambiente não deve ser
+inferior a 1/10 da adotada para o campo de trabalho,
+mesmo que haja recomendação para valor menor.
+4.4 Recomenda-se que a iluminância em qualquer ponto
+do campo de trabalho não seja inferior a 70% da iluminância
+média determinada segundo a NBR 5382.
+5 Tabelas de iluminâncias
+5.1 Iluminâncias por classe de tarefas visuais
+Ver Tabela 1.
+Procedimento
+Origem: Projeto 03:340.02-001/1990
+CB-03 - Comitê Brasileiro de Eletricidade
+CE-03:340.02 - Comissão de Estudo de Iluminação Interna
+NBR 5413 - Interior lighting - Specification
+Descriptor: Lighting
+Esta Norma substitui a NBR 5413/1982
+Incorpora Errata de JUL 1991
+Reimpressão da NB-57, de MAIO 1991
+Sede:
+Rio de Janeiro
+Av. Treze de Maio, 13 - 28º andar
+CEP 20003-900 - Caixa Postal 1680
+Rio de Janeiro - RJ
+Tel.: PABX (21) 210-3122
+Fax: (21) 220-1762/220-6436
+Endereço Telegráfico:
+www.abnt.org.br
+2 NBR 5413/1992
+5.2.2 O procedimento é o seguinte:
+a) analisar cada característica para determinar o seu
+peso (-1, 0 ou +1);
+b) somar os três valores encontrados, algebricamente,
+considerando o sinal;
+c) usar a iluminância inferior do grupo, quando o valor
+total for igual a -2 ou -3; a iluminância superior,
+quando a soma for +2 ou +3; e a iluminância média,
+nos outros casos.
+5.2.3 A maioria das tarefas visuais apresenta pelo menos
+média precisão.
+5.2 Seleção de iluminância
+Para determinação da iluminância conveniente é recomendável
+considerar os procedimentos de 5.2.1 a 5.2.4.
+5.2.1 Da Tabela 1 constam os valores de iluminâncias por
+classe de tarefas visuais. O uso adequado de iluminância
+específica é determinado por três fatores, de acordo com
+a Tabela 2.
+Nota: As classes, bem como os tipos de atividade não são rígidos quanto às iluminâncias limites recomendadas, ficando a critério do
+projetista avançar ou não nos valores das classes/tipos de atividade adjacentes,dependendo das características do local/tarefa.
+Classe Iluminância Tipo de atividade
+(lux)
+A 20 - 30 - 50 Áreas públicas com arredores escuros
+Iluminação geral para áreas 50 - 75 - 100 Orientação simples para permanência curta
+usadas interruptamente ou Recintos não usados para trabalho contínuo;
+Tarefas com requisitos visuais limitados,
+trabalho bruto de maquinaria, auditórios
+B Tarefas com requisitos visuais normais, trabalho
+médio de maquinaria, escritórios
+Tarefas com requisitos especiais, gravação
+manual, inspeção, indústria de roupas.
+C Tarefas visuais exatas e prolongadas, eletrônica
+de tamanho pequeno
+Tarefas visuais muito exatas, montagem de
+microeletrônica
+10000 - 15000 - 20000 Tarefas visuais muito especiais, cirurgia
+5000 - 7500 - 10000
+2000 - 3000 - 5000
+1000 - 1500 - 2000
+500 - 750 - 1000500 - 750 - 1000
+200 - 300 - 500
+100 - 150 - 200
+depósitos
+Iluminação adicional
+para tarefas visuais
+difíceis
+Iluminação geral
+para área de trabalho
+com tarefas visuais simples
+Tabela 1 - Iluminâncias por classe de tarefas visuais
+Tabela 2 - Fatores determinantes da iluminância adequada
+Características da tarefa Peso
+-1 0 +1
+Idade Inferior a 40 anos 40 a 55 anos Superior a 55 anos
+Velocidade e precisão Sem importância Importante Crítica
+Refletância do fundo Superior a 70% 30 a 70% Inferior a 30%
+da tarefa
+e do observador
+NBR 5413/1992 3
+5.2.4 Em 5.3, para cada tipo de local ou atividade, três
+iluminâncias são indicadas, sendo a seleção do valor recomendado
+feita da seguinte maneira:
+5.2.4.1 Das três iluminâncias, considerar o valor do meio,
+devendo este ser utilizado em todos os casos.
+5.2.4.2 O valor mais alto, das três iluminâncias, deve ser
+utilizado quando:
+a) a tarefa se apresenta com refletâncias e contrastes
+bastante baixos;
+b) erros são de difícil correção;
+c) o trabalho visual é crítico;
+d) alta produtividade ou precisão são de grande importância;
+e) a capacidade visual do observador está abaixo da
+média.
+Nota: Como exemplo de precisão, pode-se mencionar a leitura
+simples de um jornal versus a leitura de uma receita
+médica, sendo a primeira sem importância e a segunda
+crítica.
+5.2.4.3 O valor mais baixo, das três iluminâncias, pode ser
+usado quando:
+a) refletâncias ou contrastes são relativamente altos;
+b) a velocidade e/ou precisão não são importantes;
+c) a tarefa é executada ocasionalmente.
+5.3 Iluminâncias em lux, por tipo de atividade (valores
+médios em serviço)
+5.3.1 Acondicionamento
+- engradamento, encaixotamento
+e empacotamento ..................... 100 - 150 - 200
+5.3.2 Auditórios e anfiteatros
+- tribuna ...................................... 300 - 500 - 750
+- platéia ....................................... 100 - 150 - 200
+- sala de espera ........................... 100 - 150 - 200
+- bilheterias .................................. 300 - 150 - 750
+5.3.3 Bancos
+- atendimento ao público ............. 300 - 500 - 750
+- máquinas de contabilidade ........ 300 - 500 - 750
+- estatística e contabilidade ......... 300 - 500 - 750
+- salas de datilógrafas .................. 300 - 500 - 750
+- salas de gerentes ...................... 300 - 500 - 750
+- salas de recepção ..................... 100 - 150 - 200
+- salas de conferências ................ 150 - 200 - 300
+- guichês ..................................... 300 - 500 - 750
+- arquivos (incluindo acomodações
+para trabalhos de menor
+importância) .............................. 200 - 300 - 500
+- arquivos .................................... 200 - 300 - 500
+- saguão ...................................... 100 - 150 - 200
+- cantinas .................................... 100 - 150 - 200
+5.3.4 Barbearias
+- geral ......................................... 150 - 200 - 300
+5.3.5 Bibliotecas
+- sala de leitura ............................ 300 - 500 - 750
+- recinto das estantes .................. 200 - 300 - 500
+- fichário ...................................... 200 - 300 - 500
+5.3.6 Centrais elétricas
+- equipamento de ar condicionado,
+instalação de ventilação,
+condensadores de cinza,
+instalação ventiladora
+para fuligem e cinza .................. 100 - 150 - 200
+- ferramentas acessórias, como
+baterias acumuladoras, tubulações
+alimentadoras de caldeiras,
+compressores e jogos
+de instrumentos afins ................ 100 - 150 - 200
+- plataformas de caldeiras ........... 100 - 150 - 200
+- alimentação de combustível ...... 100 - 150 - 200
+- transportadores de carvão,
+trituradores e instalação para
+pó de carvão ........................ 100 - 150 -200
+- embasamento da turbina ........... 100 - 150 - 200
+- sala da turbina .......................... 100 - 150 - 200
+- instalações de hidrogênio e CO . 100 - 150 - 200
+- salas para amolecimento de
+água..............................................100 - 150 - 200
+- laboratório químico ................... 300 - 500 - 750
+- salas de controle (quadro distribuidor)
+e salas grandes de
+controle centralizado ................ 300 - 500 - 750
+- salas pequenas de controle simples
+.......................................... 200 - 300 - 500
+4 NBR 5413/1992
+- parte posterior dos quadros de
+distribuição (vertical) ................ 100 - 150 - 200
+- salas de centros telefônicos
+automáticos ............................. 100 - 150 - 200
+5.3.7 Cervejarias
+- câmara de fermentação............ 100 - 150 - 200
+- fervura e lavagem de barris ...... 150 - 200 - 300
+- enchimento (garrafas, latas,
+barris) ...................................... 150 - 200 - 300
+5.3.8 Cinemas e teatros
+- sala de espetáculos:
+. durante o espetáculo
+(luz de guia) ............................... 1
+. durante o intervalo ................. 30 - 50 - 75
+- sala de espera, “foyer” ............. 100 - 100 - 200
+- bilheterias ................................ 300 - 500 - 750
+5.3.9 Consultórios médicos (ver 5.3.28)
+5.3.10 Corredores e escadas
+- geral ........................................ 75 - 100 - 150
+5.3.11 Correios e telégrafos (ver 5.3.3)
+5.3.12 Encadernação de livros
+- dobragem, montagem, colagem,
+etc. ................................. 200 - 300 - 500
+- corte, perfuração e costura ...... 200 - 300 - 500
+- gravação e inspeção ................ 750 - 1000 - 1500
+5.3.13 Escolas
+- salas de aulas .......................... 200 - 300 - 500
+- quadros negros ........................ 300 - 500 - 750
+- salas de trabalhos manuais ...... 200 - 300 - 500
+- laboratórios
+. geral ....................................... 150 - 200 - 300
+. local ....................................... 300 - 500 - 750
+- anfiteatros e auditórios:
+. platéia .................................... 150 - 200 - 300
+. tribuna .................................... 300 - 500 - 750
+- sala de desenho ...................... 300 - 500 - 750
+- sala de reuniões ...................... 150 - 200 - 300
+- salas de educação física .......... 100 - 150 - 200
+- costuras e atividades semelhantes
+.................................... 300 - 500 - 750
+- artes culinárias ........................ 150 - 200 - 300
+5.3.14 Escritórios
+- escritórios de:
+. registros, cartografia, etc. ...... 750 - 1000 - 1500
+. desenho, engenharia mecânica
+e arquitetura .................... 750 - 1000 -1500
+. desenho decorativo e esboço .. 300 - 500 - 750
+5.3.15 Esportes (salão para)
+- bilhares:
+. geral ...................................... 100 - 150 - 200
+. mesas .................................... 300 - 500 - 750
+- bocha ...................................... 150 - 200 - 300
+- boliche:
+. local de arremesso e pista ...... 150 - 200 - 300
+. local dos pinos ....................... 300 - 500 - 750
+- bola ao cesto e voleibol:
+. local de jogos ......................... 150 - 200 - 300
+. locais recreativos e de treinamento
+................................... 100 - 150 - 200
+- esgrima ................................... 300 - 500 - 750
+- frontão..................................... 300 - 500 - 750
+- ginástica .................................. 150 - 200 - 300
+- hóquei:
+. locais grandes .......................... 300 - 500 - 750
+. locais recreativos e de treinamento
+..................................... 150 - 200 - 300
+- futebol de salão:
+. quadra ................................... 150 - 200 - 300
+. locais recreativos e de treinamento
+................................... 100 - 150 - 200
+NBR 5413/1992 5
+- tamborete:
+. quadra .................................... 150 - 200 - 300
+. locais recreativos e de treinamento
+.................................... 100 - 150 - 200
+- piscina (iluminação geral) .......... 100 - 150 - 200
+- patinação:
+. corridas .................................. 150 - 200 - 300
+. recreação ............................... 100 - 150 - 200
+- pugilismo e luta livre:
+. ringue ..................................... 750-1000- 1500
+. locais recreativos e de treinamento
+.................................... 150 - 200 - 300
+- tênis:
+. quadra de jogos ...................... 300 - 500 - 750
+. locais recreativos e de treinamento
+.................................... 150 - 200 - 300
+5.3.16 Estações ferroviárias e rodoviárias
+- sala de espera .......................... 100 - 150 - 200
+- escritórios e guichês ................. 300 - 500 - 750
+- sala de refeições ...................... 100 - 150 - 200
+- depósitos de bagagens ............ 150 - 200 - 300
+- plataformas .............................. 100 - 150 - 200
+- lavatórios ................................. 100 - 150 - 200
+5.3.17 Estações de tratamento de águas e esgotos
+- operações químicas (laboratórios):
+. geral ....................................... 150 - 200 - 300
+. mesa de trabalho .................... 300 - 500 - 750
+5.3.18 Estaleiros
+- salão de montagem ................. 150 - 200 - 300
+- modelagem .............................. 300 - 300 - 750
+- oficina de solda ........................ 150 - 200 - 300
+- rampa de lançamento:
+. guindastes .............................. 100 - 150 - 200
+. zonas de trabalho ................... 150 - 200 - 300
+. zonas de transporte ................ 100 - 150 - 200
+5.3.19 Fabricação manual de tapetes ou similares
+- geral ........................................ 300 - 500 - 750
+5.3.20 Farmácias e drogarias (ver 5.3.28)
+5.3.21 Fundições
+- área de carregamento e enchimento
+...................................... 100 - 150 - 200
+- fabricação de moldes e machos
+(trabalho fino) .................. 300 - 500 - 750
+- fabricação de moldes e machos
+(trabalho grosseiro) .......... 150 - 150 - 300
+- moldagem grosseira ................. 150 - 200 - 300
+- fundição e classificação de peças
+fundidas ............................ 200 - 300 - 500
+- limpeza e acabamento ............. 150 - 200 - 300
+- inspeção (material de precisão) ... 750-1000 - 1500
+- inspeção (material grosseiro) .... 300 - 500 - 750
+5.3.22 Funilaria
+- bancada, prensa, tesoura, estampagem,
+máquinas para formar
+cilindros a frio, máquinas
+perfuradoras ............................ 200 - 300 - 500
+- inspeção de chapas de metal
+estanhado e galvanizado, riscagem
+de desenhos em chapas
+de metal ............................ 750 - 1000 - 1500
+5.3.23 Gabinetes dentários (ver 5.3.28)
+5.3.24 Galerias de artes (ver 5.3.58 e 5.3.61)
+5.3.25 Galvanoplastia e operações similares
+- banho ...................................... 100 - 150 - 200
+- polimento ................................. 150 - 200 - 300
+5.3.26 Garagens
+- oficinas .................................... 150 - 150 - 300
+- bancadas ................................. 300 - 300 - 750
+- áreas de lubrificação ................ 100 - 100 - 200
+- poços de lubrificação ............... 150 - 200 - 300
+6 NBR 5413/1992
+- lavagem ................................... 150 - 200 - 300
+- estacionamento interno ............ 100 - 150 - 200
+- loja .......................................... 300 - 500 - 750
+5.3.27 Hangares (ver 5.3.34)
+- consertos e manutenção .......... 300 - 500 - 750
+- revisão de motores ................... 300 - 500 - 750
+5.3.28 Hospitais
+- sala dos médicos ou enfermeiras:
+. geral ....................................... 100 - 150 - 200
+. mesa de trabalho .................... 300 - 500 - 750
+- quarto de preparação ............... 150 - 200 - 300
+- arquivo .................................... 100 - 150 - 200
+- farmácia:
+. geral ....................................... 150 - 150 - 300
+. mesa de trabalho .................... 300 - 500 - 750
+- trabalho com radioisótopos:
+. laboratório radioquímico ......... 300 - 300 - 750
+. salão de medidas ................... 150 - 200 - 300
+. mesa de trabalho .................... 300 - 500 - 750
+- otorrinolaringologia:
+. sala de exame ........................ 300 - 300 - 750
+- autópsias:
+. geral ....................................... 300 - 500 - 750
+. depósitos de cadáveres .......... 100 - 150 - 200
+- terapia:
+. física ...................................... 150 - 200 - 300
+. aplicada ................................. 150 - 200 - 300
+- lavabos .................................... 100 - 150 - 200
+- raio-X:
+. radiografias, fluoroscopia e
+câmara ................................... 100 - 150 - 200
+. radioterapia profunda e
+superficial ............................... 100 - 150 - 200
+. exames de provas .................. 150 - 200 - 300
+. arquivos de filmes revelados ... 150 - 200 - 300
+. estocagem de filmes sem
+revelações ............................. 100 - 150 - 200
+- dispensário:
+. geral ...................................... 100 - 150 - 200
+. mesa...................................... 300 - 500 - 750
+. depósito de remédios ............. 100 - 150 - 300
+- banheiros:
+. geral ...................................... 100 - 150 - 200
+. espelhos (iluminação suplementar)
+.................................. 200 - 200 - 500
+- biblioteca................................. 300 - 500 - 750
+- pronto-socorro:
+. geral ...................................... 300 - 500 - 750
+- corredores e escadas .............. 75 - 100 - 150
+- escritórios (ver 5.3.14)
+- cozinhas .................................. 150 - 150 - 300
+- laboratórios de análises:
+. sala de pesquisa .................... 150 - 200 - 300
+. mesa de trabalho ................... 300 - 500 - 750
+- salas de diagnósticos e terapêuticas:
+. geral ...................................... 150 - 200 - 300
+. mesa de diagnóstico .............. 300 - 500 - 750
+- departamento cirúrgico:
+. sala de operação (iluminação
+geral) ..................................... 300 - 500 - 750
+. sala de esterilização ............... 300 - 500 - 750
+- departamento dentário:
+. sala de dentista (iluminação
+geral) ..................................... 150 - 200 - 300
+- lavatórios ................................. 100 - 150 - 200
+- departamento de maternidade:
+. sala de partos (iluminação
+geral) ..................................... 150 - 200 - 300
+. berçário ................................. 75 - 100 - 150
+. sala de atendimento ao
+berçário ................................. 150 - 200 - 300
+- lavanderia (ver 5.3.55)
+NBR 5413/1992 7
+- quartos particulares para pacientes:
+. geral ....................................... 100 - 150 - 200
+. cama ...................................... 150 - 150 - 300
+5.3.29 Hotéis e restaurantes
+- banheiros ................................. 100 - 150 - 200
+- espelhos (iluminação suplementar)
+........................................... 200 - 300 - 500
+- corredores e escadas ............... 75 - 100 - 150
+- lavanderia: (ver 5.3.55)
+- sala de leitura:
+. geral ....................................... 100 - 150 - 200
+. mesa ...................................... 200 - 300 - 500
+- cozinha:
+. geral ....................................... 150 - 200 - 300
+. local ....................................... 300 - 500 - 750
+- quartos:
+. geral ....................................... 100 - 150 - 200
+. cama (iluminação suplementar)
+......................................... 150 - 200 - 300
+. escrivaninha............................ 200 - 300 - 500
+. penteadeiras ........................... 200 - 300 - 500
+- salão de reuniões:
+. salão de conferências ............. 100 - 150 - 200
+. tablados ................................. 300 - 150 - 750
+- exposições e demonstrações ... 200 - 300 - 500
+- sala de reuniões de hóspedes ... 100 - 150 - 200
+- restaurantes ............................. 100 - 150 - 200
+- lanchonetes .............................. 150 - 200 - 300
+- auto-serviço ............................. 150 - 200 - 300
+- portaria e recepção .................. 150 - 200 - 300
+- centro telefônico....................... 150 - 200 - 300
+5.3.30 Igrejas e templos
+- nave, entrada, auditórios, sem
+ofício ....................................... 30 - 50 - 75
+- nave, entrada, auditórios, com
+ofício ....................................... 100 - 150 - 200
+- púlpito, com ofício.................... 200 - 300 - 500
+5.3.31 Indústrias alimentícias
+- seleção de refugos ................... 150 - 200 - 300
+- limpeza e lavagem.................... 150 - 200 - 300
+- classificação pela cor (sala de
+cortes) ..................................... 750 - 1000 - 1500
+- cortes e remoção de caroços
+e sementes .............................. 150 - 200 - 300
+- enlatamento:
+. mecânico (correia
+transportadora) ...................... 150 - 200 - 300
+. manual ................................... 200 - 300 - 500
+. inspeção de latas cheias
+(amostras para ensaios) ......... 750 - 1000 - 1500
+- trabalho com latas:
+. inspeção ................................ 750 - 1000 - 1500
+. selagem das latas ................... 150 - 200 - 300
+. arranjo de latas e acondicionamento
+em caixas de papelão.. 100 - 150 - 200
+5.3.32 Indústria de artigos de ourivesaria e joalheria
+- geral ........................................ 750 - 1000 - 1500
+- local ......................................... 1500 - 2000 - 3000
+5.3.33 Indústria de automóveis
+- construção de carrocerias e
+chassis, montagem das partes
+componentes ..................... 200 - 300 - 500
+- linha de montagem dos
+chassis .................................... 300 - 500 - 750
+- montagem de carrocerias ......... 200 - 300 - 500
+- acabamento e inspeção ........... 750 - 1000 - 1500
+5.3.34 Indústrias de aviões
+- fabricação:
+. perfuração, rebitagem e
+pivotagem ............................. 200 - 200 - 500
+. cabines de pulverização ......... 300 - 500 - 750
+. riscagem de chapas de alumínio,
+fabricação de gabaritos
+ou modelos de braçadeiras,
+parte da fuselagem,
+peças das asas, etc. .............. 300 - 500 - 750
+8 NBR 5413/1992
+- solda:
+. iluminação geral ..................... 150 - 200 - 300
+. iluminação suplementar
+sobre o trabalho .................. 1500 - 2000 - 3000
+- montagem:
+. trem de aterrissagem, montagens,
+peças das asas, casco
+de fuselagem e outras peças
+grandes ................................. 300 - 500 - 750
+- montagem final:
+. colocação dos motores,
+peças das asas, trem de
+aterrissagem, etc ................... 300 - 500 - 750
+. inspeção da fuselagem
+completa e equipamentos ...... 300 - 500 - 750
+. consertos das máquinasferramenta
+............................. 300 - 500 - 750
+5.3.35 Indústrias de borrachas
+- processamento de matérias-
+primas:
+. trituração, vulcanização .......... 100 - 150 - 200
+. calandragem .......................... 150 - 200 - 300
+- outras operações:
+. máquinas para pneumáticos
+de veículos, mangueiras de
+borracha, moldagem por
+compressão, moldagem por
+extrusão, refinação ................ 150 - 200 - 300
+- inspeção final ......................... 750 - 1000 - 1500
+5.3.36 Indústrias de calçados
+- couros:
+. riscagem de modelos, cortes,
+costuras, formação de pares
+e classificação ..................... 750 - 1000 - 1500
+. pregação com tachas, colocação
+de solas, pregueação,
+colocação nas fôrmas, colocação
+de vira, enrijecimento,
+limpeza, tingimento e polimento
+.................................. 750 - 1000 - 1500
+- borracha:
+. lavagem, tratamento de composto
+de borracha, confecção
+de lençóis de borracha........... 100 - 150 - 200
+. envernizamento, vulcanização,
+calandragem, corte da parte
+superior e solas ..................... 150 - 200 - 300
+. rolamentos de solas, colagem
+do revestimento interno, montagem
+e acabamento ............. 300 - 500 - 750
+5.3.37 Indústrias de cerâmicas
+- trituração, filtragem e prensa,
+secagem ................................. 100 - 150 - 200
+- moldagem, acabamentos e
+limpeza ................................... 100 - 150 - 200
+- coloração e vitrificação
+(grosseira) ............................... 300 - 500 - 750
+- coloração e vitrificação
+(delicada) ............................... 750 - 1000 - 1500
+- decoração manual .................. 750 - 1000 - 1500
+5.3.38 Indústrias de chapéus
+- tingimento, impermeabilização,
+limpeza e refinação ................. 300 - 500 - 750
+- formação, dimensionamento,
+perfuração, confecção de
+aba, acabamento e passagem
+a ferro ........................... 750 - 1000 - 1500
+- costuras e guarnecimento .... 1500 - 2000 - 3000
+5.3.39 Indústrias de cimentos
+- moagem, fornos ...................... 100 - 150 - 200
+- ensacamento ........................... 100 - 150 - 200
+- escalas, painéis e instrumentos .. 300 - 500 - 750
+5.3.40 Indústrias de confeitos
+- seção de chocolates:
+. quebra, seleção, extração de
+gordura, alisamento e purificação,
+transporte .................. 150 - 200 - 300
+- fabricação de balas ................. 300 - 500 - 750
+- recheios:
+. mistura, fervura, amassamento . 150 - 200 - 300
+. decoração manual .................. 300 - 500 - 750
+- confeitos consistentes:
+. mistura, fervura, amassamento
+................................... 150 - 200 - 300
+. corte, classificação e
+acondicionamento ................. 300 - 500 - 750
+5.3.41 Indústrias de conservas de carnes
+- abate de gado ......................... 100 - 150 - 200
+- limpeza e corte ........................ 300 - 500 - 750
+NBR 5413/1992 9
+- cozimento, moagem, enlatamento
+e acondicionamento ...... 150 - 200 - 300
+5.3.42 Indústrias de couros
+- tanques .................................... 100 - 150 - 200
+- limpeza, curtimento, estriagem,
+tingimento ................................ 100 - 150 - 200
+- divisão, descarnamento e
+preparação .............................. 150 - 200 - 300
+- acabamento e inspeção............ 300 - 500 - 750
+5.3.43 Indústrias de fumos
+- secagem, rasgamento, corte e
+mistura .................................... 150 - 200 - 300
+- preparação de melados,
+essências e goma .................... 150 - 200 - 300
+- inspeção e classificação ........ 750 - 1000 - 1500
+- máquinas para cigarros,
+charutos e filtros ...................... 300 - 500 - 750
+- encarteiramento e empacotamento
+................................... 300 - 500 - 750
+5.3.44 Indústrias de gelo
+- geral ......................................... 150 - 200 - 300
+5.3.45 Indústrias de gravação de desenhos e dizeres
+- geral ......................................1500 - 2000 - 3000
+5.3.46 Indústrias de luvas
+- cortes, prensagem,
+perfuração ............................ 750 - 1000 - 1500
+- confecção de malhas,
+classificação ............................ 300 - 500 - 750
+- costuras, guarnecimento,
+inspeção .............................. 1500 - 2000 - 3000
+5.3.47 Indústrias de materiais elétricos e telecomunicações
+- impregnação ............................ 150 - 200 - 300
+- isolação ................................... 300 - 500 - 750
+- enrolamento, bobinagem .......... 300 - 500 - 750
+- ensaios, inspeção ..................... 300 - 500 - 750
+- trabalhos mecânicos e de montagem (ver 5.3.33)
+5.3.48 Indústrias metalúrgicas
+- usinagem grosseira e trabalhos
+de ajustador ............................. 150 - 200 - 300
+- usinagem média e trabalhos de
+ajustador, trabalhos grosseiros
+de plainas, tornos e polimento .... 300 - 500 - 750
+- usinagem de precisão de
+trabalhos de ajustador,
+máquinas de precisão
+automática, plainamento,
+tornos de precisão e polimento
+de alta qualidade ...... 750 - 1000 - 1500
+- usinagem de alta precisão e
+trabalhos de ajustador ......... 1500 - 2000 - 3000
+5.3.49 Indústrias de papéis
+- abertura e trituração, calandragem
+.................................... 150 - 200 - 300
+- máquinas de papel, cortes,
+usinagem e refinação ............... 150 - 200 - 300
+- máquinas de papel - lado
+úmido ...................................... 150 - 200 - 300
+- máquinas de papel - lado
+seco, inspeção, laboratório ...... 300 - 500 - 750
+5.3.50 Indústrias químicas
+- fornos de operação manual,
+secadores estacionários, caldeiras
+e tanques de cristalização
+.......................................... 150 - 200 - 300
+- fornos mecânicos e tanques
+de cristalização, vasos de evaporação,
+filtragem, alvejamento
+...................................... 150 - 200 - 300
+- caldeiras de engrossamento,
+extração, filtragem e equipamento
+de filtração, eletrólise .... 150 - 200 - 300
+- indústria e reparação de relógios,
+cronômetros e equipamento
+de precisão:
+. geral ................................... 1500 - 2000 - 3000
+5.3.50.1 Indústrias de sabão
+- fervura, cortes, fabricação de
+pó e flocos ............................... 150 - 200 - 300
+- prensagem, acondicionamento
+e embalagem, enchimento das
+caixas de papelão com sabão
+em pó e acondicionamento
+das caixas ............................... 150 - 200 - 300
+5.3.51 Indústrias têxteis
+- algodão:
+. abertura de fardos, batedores,
+misturas, classificação ........... 150 - 200 - 300
+10 NBR 5413/1992
+. cardação, estiragem, engomagem,
+enrolamento de bobinas
+e carretéis, fiação .................. 200 - 300 - 500
+. espulagem, classificação,
+urdimento .............................. 300 - 500 - 750
+. preparação dos rolos de
+urdume .................................. 300 - 500 - 750
+. tecelagem .............................. 300 - 500 - 750
+. inspeção (peças estacionárias)
+.................................... 300 - 500 - 750
+. inspeção (peças em movimento
+rápido) ......................... 750 - 1000 -1500
+. engrupagem automática ......... 750 - 1000 - 1500
+. engrupagem manual ............... 300 - 500 - 750
+- sedas e fibras sintéticas:
+. desengomagem, tingimento,
+secagem................................ 150 - 200 - 300
+. enrolamento de bobinas e
+carretéis, retorção .................. 150 - 200 - 300
+. urdimento, fiação .................... 300 - 500 - 750
+. tecelagem .............................. 300 - 500 - 750
+- lã:
+. abertura de fardos, batedores,
+misturas, classificação ........... 150 - 200 - 300
+. lavagem, massaroqueiras ....... 150 - 200 - 300
+. mistura ................................... 150 - 200 - 300
+. inspeção ................................ 300 - 500 - 750
+. cardação, estiragem, engomagem,
+retorção, enrolamento
+de espulas ......................... 150 - 200 - 300
+. fiação (branca) ........................ 150 - 200 - 300
+. fiação (colorida) ...................... 300 - 500 - 750
+. tecelagem (branca) ................. 300 - 500 - 750
+. tecelagem (colorida) ............... 750 - 1000 - 1500
+. urdimento ............................... 300 - 500 - 750
+. engrupagem ........................... 150 - 200 - 300
+5.3.52 Indústrias de tintas
+- geral ........................................ 150 - 200 - 300
+- igualação de cores de acordo
+com os padrões (localmente
+na fábrica) ............................ 750 - 1000 - 1500
+5.3.53 Indústrias de vestuário
+- inspeção do material ............. 1500 - 2000 - 3000
+- corte e passagem .................... 750 - 1000 - 1500
+- costura e guarnecimento ......... 750 - 1000 - 1500
+5.3.54 Indústrias de vidros
+- salas de mistura e salões de
+fornos, moldagem e pressão,
+resfriamento e sopramento
+à maquina ............................... 150 - 200 - 300
+- esmerilhamento, corte
+dimensional, prateamento ....... 300 - 500 - 750
+- esmerilhamento fino, polimento,
+chanframento .............. 300 - 500 - 750
+- gravação, polimento e
+inspeção .............................. 750 - 1000 - 1500
+5.3.55 Lavanderias
+- lavagem de roupas .................. 150 - 200 - 300
+- passagem de peças a ferro,
+pesagem, contagem e marcação
+...................................... 150 - 200 - 300
+- calandragem, classificação ...... 150 - 200 - 300
+- passagem manual a ferro de
+peças delicadas (saias e golas
+de vestidos) ....................... 300 - 500 - 750
+5.3.56 Lavatórios
+- geral ........................................ 100 - 150 - 200
+- espelho ................................... 200 - 300 - 500
+5.3.57 Locais de armazenamento
+- armazéns gerais (não usados
+freqüentemente) ....................... 75 - 100 - 150
+- armazéns de fábricas (usados freqüentemente):
+. armazenamento de volumes
+grandes ................................. 150 - 200 - 300
+. armazenamento de volumes
+pequenos .............................. 150 - 200 - 300
+. armazenamento de volumes
+muito pequenos .................... 200 - 300 - 500
+5.3.58 Lojas
+- vitrinas e balcões (centros comerciais de grandes
+cidades):
+. geral .................................... 750 - 1000 - 1500
+NBR 5413/1992 11NBR 5413/1992 11
+. iluminação suplementar com
+facho concentrado ............. 3000 - 5000 - 7500
+- vitrinas e balcões (outros locais fora dos centros
+comerciais):
+. geral ....................................... 300 - 500 - 750
+. iluminação suplementar com
+facho concentrado ............. 1000 - 1500 - 2000
+- interior de:
+. loja de artigos diversos ........... 300 - 500 - 750
+. centros comerciais .................. 300 - 500 - 750
+. outros locais ........................... 300 - 300 - 750
+5.3.59 Marcenaria e carpintaria
+- serragem e aparelhamento,
+trabalho grosseiro .................... 150 - 200 - 300
+- dimensionamento, plainagem,
+lixamento grosso, aparelhamento
+semipreciso, colagem,
+folheamento e montagem ......... 200 - 300 - 500
+- aparelhamento de precisão,
+lixamento fino e acabamento .... 300 - 500 - 750
+5.3.60 Moinhos de farinhas
+- moagem, peneiramento,
+purificação ............................... 150 - 200 - 300
+- embalagem .............................. 150 - 200 - 300
+- inspeção do produto ................ 300 - 500 - 750
+- limpeza de peneiras, passagem,
+inspeção de tanques ................ 150 - 200 - 300
+5.3.61 Museus
+- geral ......................................... 75 - 100 - 150
+- quadro (iluminação suplementar)
+........................................... 150 - 200 - 300
+- esculturas e outros objetos ....... 300 - 500 - 750
+5.3.62 Padarias
+- sala de mistura ......................... 150 - 200 - 300
+- porta-massa (iluminação vertical)
+.......................................... 100 - 150 - 200
+- sala de fermentação ................. 100 - 150 - 200
+- sala de preparação ................... 150 - 200 - 300
+- espaço de forno ....................... 150 - 200 - 300
+- decoração de moldagem .......... 200 - 300 - 500
+- sala de embalagem .................. 150 - 200 - 300
+5.3.63 Pinturas
+- imersão, pulverização, remoção
+de camadas antigas, lixamento,
+pintura e acabamento .............. 200 - 300 - 500
+- pintura e acabamento de alta
+qualidade ................................ 300 - 500 - 750
+- pintura e acabamento de
+qualidade superior (automóvel,
+piano, etc.) ................. 750 - 1000 - 1500
+- polimento e brunimento............ 200 - 300 - 500
+5.3.64 Produtos de papel (caixas de papelão)
+- sala de fabricação .................... 200 - 300 - 500
+- armazenamento ....................... 100 - 150 - 200
+5.3.65 Residências
+- salas de estar:
+. geral ....................................... 100 - 150 - 200
+. local (leitura, escrita, bordado,
+etc.) ....................................... 300 - 500 - 750
+- cozinhas:
+. geral ....................................... 100 - 150 - 200
+. local (fogão, pia, mesa) ........... 200 - 300 - 500
+- quartos de dormir:
+. geral ....................................... 100 - 150 - 200
+. local (espelho, penteadeira,
+cama) .................................... 200 - 300 - 500
+- hall, escadas, despensas, garagens:
+. geral ....................................... 75 - 100 - 150
+. local ....................................... 200 - 300 - 500
+- banheiros:
+. geral ....................................... 100 - 150 - 200
+. local (espelhos) ....................... 200 - 300 - 500
+5.3.66 Restaurantes (ver 5.3.29)
+5.3.67 Siderúrgicas
+- depósito de matérias-primas .... 100 - 150 - 200
+- áreas de carregamento ............. 150 - 200 - 300
+12 NBR 5413/1992
+- enchimento de fornos:
+. poço de resíduos .................... 150 - 200 - 300
+. aberturas para inspeções ........ 150 - 200 - 300
+- fundição de lingotes ................. 150 - 200 - 300
+- depósitos de lingotes ............... 150 - 200 - 300
+- conserto de portas do forno e
+material refratário ..................... 150 - 200 - 300
+- depósito de refugo ................... 150 - 200 - 300
+- fabricação de aço .................... 150 - 200 - 300
+- compartimento de trituração .... 150 - 200 - 300
+5.3.68 Soldas
+- iluminação geral ....................... 150 - 200 - 300
+- solda de arco de precisão
+(manual) .............................. 1500 - 2000 - 3000
+5.3.69 Tapeçarias
+- estofamento de móveis ............ 300 - 500 - 750
+5.3.70 Terminais de vídeo
+- leitura de documentos (para
+datilografia) .............................. 300 - 500 - 750
+- teclado .................................... 300 - 300 - 300
+5.3.71 Tinturarias
+- marcação, classificação, lavagem
+e limpeza ......................... 150 - 200 - 300
+- inspeção e remoção de manchas
+.................................... 1500 - 2000 - 3000
+- passagem de roupas
+(a máquina ou manual) ............. 300 - 500 - 750
+- consertos e modificações ....... 750 - 1000 - 1500
+5.3.72 Tipografias
+- fundição de tipos:
+. confecção de matrizes ............ 300 - 500 - 750
+. fundição de tipos (mecânica
+ou manual), classificação ....... 200 - 300 - 500
+- oficinas tipográficas:
+. inspeção de cores .................. 750 - 1000 - 1500
+. montagem de tipos na máquina,
+sala para a montagem
+manual de tipos ..................... 200 - 500 - 750
+. impressão .............................. 200 - 300 - 500
+. mesas de fôrmas .................... 300 - 500 - 750
+. revisão ................................... 300 - 500 - 750
+- seção eletroquímica:
+. gravação, retocagem e acabamento
+de matrizes ................. 300 - 500 - 750
+. estereotipagem ...................... 200 - 300 - 500
+- litografia:
+. gravação, tiragem de provas .. 200 - 300 - 500
+. retocagem e inspeção ............ 300 - 500 - 750
+. preparação de cores .............. 300 - 500 - 750
+. cobrimento (máscaras) ........... 300 - 500 - 750
+5.3.73 Trabalhos com couros
+- prensagem, enrolamento e
+polimento .............................. 750 - 1000 - 1500
+- inspeção, classificação,
+corte e costura ...................... 750 - 1000 - 1500
+5.3.74 Tratamento de carvão
+- trituração, peneiramento,
+lavagem .................................. 150 - 200 - 300
+- classificação (correia transportadora)
+............................... 200 - 300 - 500
+5.3.75 Usinas de aço
+- forjas ....................................... 150 - 200 - 300
+- laminação:
+. uma fase de laminação, laminação
+a quente de tiras,
+laminação a frio de tiras e
+chapas .................................. 150 - 200 - 300
+. trefilação de tubos, vergalhões
+e fios ............................ 150 - 200 - 300
+- fabricação de chapas:
+. estanhagens, galvanização,
+laminação a frio ..................... 150 - 200 - 300
+- salas de máquinas ................... 150 - 200 - 300
+- inspeção:
+. chapas pretas, chapas laminadas
+........................................ 300 - 500 - 750
+. chapas estanhadas e outras
+superfícies claras ................... 300 - 500 - 750
+
+5.3.76 Usinas de açúcar
+- moagem, mistura, fervura,
+transporte ................................ 150 - 200 - 300
+- usinagem centrífuga, purificação,
+peneiramento ................... 300 - 500 - 750
+- Inspeção de cor ....................... 750 - 500 - 750
+- armazenamento ........................ 100 - 150 - 200
+5.3.77 Usinas de leite
+- sala de esterilização, armazenamento
+de garrafas, instalações
+de lavagem de latas para
+leite, instalações de resfriamento,
+salão de resfriamento,
+pasteurização e separação de
+cremes .................................... 150 - 200 - 300
+- classificação de garrafas .......... 150 - 200 - 300
+- inspeção na máquina de lavar .. 300 - 500 - 750
+- inspeção durante o enchimento
+...................................... 300 - 500 - 750
+- sala de pesagens ..................... 100 - 150 - 200
+- balanças .................................. 150 - 200 - 300
+- laboratórios .............................. 300 - 500 - 750
